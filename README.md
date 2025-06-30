@@ -1,9 +1,9 @@
 # website-html-css-bootstrap-
-Description
+Description:
 Project aims to create Bootstrap_WebPage within html and css.
-Problem Statement
+Problem Statement:
 You should create a nice project with the bootstrap_WebPage you just learned.
-Objective
+Objective:
 Functionally create a Bootstrap_WebPage as in the image above
 
 At the end of the project, following topics are to be covered;
