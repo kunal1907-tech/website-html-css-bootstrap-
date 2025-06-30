@@ -1,23 +1,30 @@
-# website-html-css-bootstrap-
-Description:
-Project aims to create Bootstrap_WebPage within html and css.
-Problem Statement:
-You should create a nice project with the bootstrap_WebPage you just learned.
-Objective:
-Functionally create a Bootstrap_WebPage as in the image above
+📋 Project Description
+This is a fully responsive multi-page website built using HTML, CSS, and Bootstrap. The project showcases a clean, modern design with a mobile-first approach and is suitable for personal portfolios, company landing pages, or small businesses.
 
-At the end of the project, following topics are to be covered;
-HTML Navbar,banner, services
+🚀 Features
+Responsive design (mobile, tablet, desktop)
 
-HTML Portfolio, about us, team, contact
+Navigation bar with smooth scrolling
 
-CSS Colors-Border Properties
+Hero section with call-to-action
 
-CSS Bootstrap-Margins-Padding-fluid
+Services/Features section with icons
 
-CSS Properties for Texts-Font "Lato", sans-serif;
+Portfolio/gallery with cards
 
-At the end of the project, students will be able to;
-improve coding skills within HTML & CSS
+About Us and Contact section
 
-use git commands (push, pull, commit, add etc.) and Github as Version Control System.
+Footer with social media links
+
+Bootstrap grid system & components
+
+🛠️ Technologies Used
+HTML5
+
+CSS3
+
+Bootstrap 5
+
+Google Fonts
+
+Font Awesome (for icons)
