@@ -1,7 +1,7 @@
-📋 Project Description
+📋 Project Description; :
 This is a fully responsive multi-page website built using HTML, CSS, and Bootstrap. The project showcases a clean, modern design with a mobile-first approach and is suitable for personal portfolios, company landing pages, or small businesses.
 
-🚀 Features
+🚀 Features:
 Responsive design (mobile, tablet, desktop)
 
 Navigation bar with smooth scrolling
@@ -28,3 +28,5 @@ Bootstrap 5
 Google Fonts
 
 Font Awesome (for icons)
+
+Unsplash for free images
